@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayFxSoundOP</string>
+    <string name="ButtonOne">ButtonOne\n</string>
+    <string name="ButtonnTwo" />
+    <string name="ButtonTwo">ButtonTwo</string>
+    <string name="ButtonThree">ButtonThree</string>
+    <string name="ButtonFour">ButtonFour\n</string>
+</resources>
